@@ -1,19 +1,29 @@
-🚀 Excited to Share My College Project: SecurePass – Android Password Manager! 🚀
+# Secure Pass
 
-I’m thrilled to present SecurePass, an Android password manager I developed as part of my college project! 🎓🔒
+SecurePass is designed to help users securely store and manage their passwords with ease. 
 
-SecurePass is designed to help users securely store and manage their passwords with ease. Here are some of the key features:
+Key features:
 
-🔐 Biometric Authentication: Secure access with fingerprint and face recognition, ensuring only you can unlock your vault.
+🔐 Biometric Authentication<br>
+🛠️ Inbuilt Password Generator<br>
+🌙 Light & Dark Theme
+📝 Custom Notes<br>
+🔍 Password Search<br>
+🔗 Password Sharing<br>
 
-🛠️ Inbuilt Password Generator: Generate strong and unique passwords with a click, protecting your accounts with advanced security.
+Tech Stack: Android Java, AES Encryption
 
-🌙 Light & Dark Theme: Whether you prefer a sleek dark mode or a bright light theme, SecurePass gives you a customizable UI for a smooth user experience.
+APK Link : [Click Here](/app/release/)
 
-📝 Custom Notes: Store passwords with associated notes for easy reference. Whether it's a website or a specific detail, keep your info organized and secure.
+## Screenshots
 
-🔍 Password Search: Quickly find any password in your vault with the intuitive search feature, making password management faster and more efficient.
-
-🔗 Password Sharing: Securely share your passwords with trusted contacts, ensuring both convenience and privacy.
-
-This project showcases practical implementation of mobile security features like encryption and biometric authentication, combined with user-friendly design.
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/f/d/5/fd50bacafae6c39f9c01c785de776ee71d916b4a_2_225x500.jpeg" alt="6082488635866858493" data-base62-sha1="A8VLh8jCJqjpUtyF9vGiiWgInFw" width="225" height="500" loading="lazy" style="aspect-ratio: 225 / 500;">
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/8/e/f/8ef1702edd52a0b9b5073e08b792329e9b311024_2_225x500.jpeg" alt="6082488635866858494" data-base62-sha1="kox4WJ87PwBJk0GOBAhsvLZ2Bow" width="225" height="500" loading="lazy" style="aspect-ratio: 225 / 500;">
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/7/c/b/7cb9877f14f18695217c9ed14a3d15b3711009e1_2_225x500.jpeg" alt="6082488635866858495" data-base62-sha1="hNmHsBMsG4PvrRU2SwbpoP2EqHf" width="225" height="500" loading="lazy" style="aspect-ratio: 225 / 500;">
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/c/4/7/c474715f013327d7d7f9479cdfd7f1f6c9314f6b_2_225x500.jpeg" alt="6082488635866858499" data-base62-sha1="s1V3PQPKnFganfjzn1JB8D5As8X" width="225" height="500" loading="lazy" style="aspect-ratio: 225 / 500;">
+<img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/2/e/e/2eee1ab88881e87f7a16bcbb93115848d332946c_2_225x500.jpeg" alt="6082488635866858498" data-base62-sha1="6Ha6c5kZiHgCWTpKQaeRHr24wkQ" width="225" height="500" srcset="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/2/e/e/2eee1ab88881e87f7a16bcbb93115848d332946c_2_225x500.jpeg, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/2/e/e/2eee1ab88881e87f7a16bcbb93115848d332946c_2_337x750.jpeg 1.5x, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/2/e/e/2eee1ab88881e87f7a16bcbb93115848d332946c_2_450x1000.jpeg 2x" data-dominant-color="EAF1FA" loading="lazy" style="aspect-ratio: 225 / 500;"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true">
+  <img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/6/9/6/696e97eac22d4bbc3ea84c0cd5f788712a4ed9e4_2_225x500.jpeg" alt="6082488635866858496" data-base62-sha1="f2H4WrlrQmTe5X79w3tc6Jki0GE" width="225" height="500" srcset="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/6/9/6/696e97eac22d4bbc3ea84c0cd5f788712a4ed9e4_2_225x500.jpeg, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/6/9/6/696e97eac22d4bbc3ea84c0cd5f788712a4ed9e4_2_337x750.jpeg 1.5x, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/6/9/6/696e97eac22d4bbc3ea84c0cd5f788712a4ed9e4_2_450x1000.jpeg 2x" data-dominant-color="222632" loading="lazy" style="aspect-ratio: 225 / 500;"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true">
+  <img src="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/3/9/a/39ad82cd55793986f963460d8e22dfcf9e71a38d_2_225x500.jpeg" alt="6082488635866858497" data-base62-sha1="8eeXBfdSRPEBnNCui6TMDeWbSCV" width="225" height="500" srcset="https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/3/9/a/39ad82cd55793986f963460d8e22dfcf9e71a38d_2_225x500.jpeg, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/3/9/a/39ad82cd55793986f963460d8e22dfcf9e71a38d_2_337x750.jpeg 1.5x, https://kodular-community.s3.dualstack.eu-west-1.amazonaws.com/optimized/4X/3/9/a/39ad82cd55793986f963460d8e22dfcf9e71a38d_2_450x1000.jpeg 2x" data-dominant-color="242733" loading="lazy" style="aspect-ratio: 225 / 500;"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true">
