@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PasswordManager" parent="Theme.Material3.Dark.NoActionBar">
+
+        <item name="colorAccent">@color/main</item>
+        <item name="colorPrimaryDark">@color/main</item>
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="android:statusBarColor" >@color/main</item>
+
+    </style>
+
+    <style name="Theme.PasswordManager" parent="Base.Theme.PasswordManager" />
+</resources>

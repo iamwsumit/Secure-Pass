@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/vault"
+        android:checked="true"
+        android:enabled="true"
+        android:icon="@drawable/vault"
+        android:title="My Vault"/>
+    <item
+        android:id="@+id/generator"
+        android:enabled="true"
+        android:icon="@drawable/generator"
+        android:title="Generator"/>
+</menu>

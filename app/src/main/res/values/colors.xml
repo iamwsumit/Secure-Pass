@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#7caaef</color>
+    <color name="light_bg">#B37CAAEF</color>
+    <color name="background">#fff</color>
+    <color name="colorTitle">#000</color>
+    <color name="mtrl_textinput_default_box_stroke_color">@color/light_bg</color>
+    <color name="black_white">#000</color>
+    <color name="bottom_navigation">#F1F5FB</color>
+    <color name="selected_icon_color">#C2E7FF</color>
+
+    <color name="material_blue_500">#2196F3</color>
+    <color name="material_red_500">#F44336</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_yellow_500">#FFEB3B</color>
+    <color name="material_purple_500">#9C27B0</color>
+    <color name="material_indigo_500">#3F51B5</color>    <!-- Indigo -->
+    <color name="material_orange_500">#FF9800</color>    <!-- Orange -->
+    <color name="material_teal_500">#009688</color>      <!-- Teal -->
+    <color name="material_brown_500">#795548</color>     <!-- Brown -->
+    <color name="material_cyan_500">#00BCD4</color>      <!-- Cyan -->
+</resources>

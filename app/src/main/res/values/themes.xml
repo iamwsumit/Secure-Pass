@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PasswordManager" parent="Theme.Material3.DynamicColors.Light.NoActionBar">
+
+        <item name="colorAccent">@color/main</item>
+        <item name="colorPrimaryDark">@color/main</item>
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="android:statusBarColor" >@color/main</item>
+
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+    </style>
+
+    <style name="Theme.PasswordManager" parent="Base.Theme.PasswordManager" />
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorSecondaryContainer">@color/selected_icon_color</item>
+    </style>
+</resources>

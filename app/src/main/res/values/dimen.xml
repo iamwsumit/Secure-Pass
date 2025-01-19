@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_radius">5dp</dimen>
+    <dimen name="actionBarSize">60dp</dimen>
+
+    <dimen name="head_size">17sp</dimen>
+</resources>
